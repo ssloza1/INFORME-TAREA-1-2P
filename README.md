@@ -7,9 +7,33 @@
 ## 1. OBJETIVO:
 #### 1.1 OBJETIVO GENERAL: 
  
+ •	Describir y desarrollar los circuitos en serie-paralelo y hacer el uso de los teoremas de conversiones partiendo de su estructura y basándose en las características para comprensión del tema basado en los circuitos eléctricos mediante información teórica y resolución de ejercicios. 
+ 
 #### 1.2 OBJETIVO ESPECIFICOS:
 
+•	  Analizar y diseñar circuitos en serie-paralelo para lo cual permitirá describir de mejor manera sus componentes y su funcionalidad partiendo de información proporcionada por el texto de Floyd.
+
+•	  Realizar y Usar los teoremas de conversiones de circuitos en lo cual se especifica la manera de resolución de los circuitos mediante el uso de texto de trabajo y resolucion de ejercicios 
+
 ## 2. MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/105320981/176711576-6feef9b8-e199-412d-9148-0959cb259a3e.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176711934-7a75b4ba-411b-49df-93b0-8c3092cdb854.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176711972-5df0f2b7-8de9-4deb-b0a3-b4aafa1de044.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176711999-aae3cce9-ca92-4935-9743-5a3c1d534b73.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176712494-004e2543-a02a-4cfa-968f-d598b53f6bb6.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176712501-ca5b9ec4-952d-472f-9b4d-0693d529fb14.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176713067-75c449bd-e179-4f90-a974-771f0ffe98fa.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176712883-dd943cac-2bbd-4949-8ac4-6612a292c1d9.png)
+
+![image](https://user-images.githubusercontent.com/105320981/176712898-f82b01ef-8d55-42e0-be46-2f2048e9a690.png)
 
 ## 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -386,7 +410,9 @@ B
 ## 4. VIDEO
 
 ## 5.CONCLUSIONES
-
+•	Para diseñar un circuito en serie hay que tener en cuenta que es una de las formas más simples de entender los circuitos eléctricos partiendo de sus características podemos determinar que los circuitos en serie por lo general tienen sus valores iguales y eso facilita sus cálculos y su uso en componentes eléctricos.
+•	Para comprender los circuitos en paralelos se tiene que partir que en que los circuitos en paralelo por lo general sus valores varían y se debe tomar en cuenta mucho la ley que plantea Kirchhoff por lo tanto se debe tomar mucho en cuenta los cálculos que este se refiere.
+• Para la resoluci+on de ejercicios de circuitos aplicando los teoremas de resolución se debe tomar en cuenta el tipo de circuito el cual se quiere realizar para esto tomaremos tambien en cuenta que los circuitos son en serie-paralelo y debemos separar bien el circuito para su realización.
 ## 6.BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
