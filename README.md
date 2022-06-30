@@ -409,6 +409,8 @@ B
 
 ## 4. VIDEO
 
+https://youtu.be/9gEnUFtEauc
+
 ## 5.CONCLUSIONES
 •	Para diseñar un circuito en serie hay que tener en cuenta que es una de las formas más simples de entender los circuitos eléctricos partiendo de sus características podemos determinar que los circuitos en serie por lo general tienen sus valores iguales y eso facilita sus cálculos y su uso en componentes eléctricos.
 •	Para comprender los circuitos en paralelos se tiene que partir que en que los circuitos en paralelo por lo general sus valores varían y se debe tomar en cuenta mucho la ley que plantea Kirchhoff por lo tanto se debe tomar mucho en cuenta los cálculos que este se refiere.
